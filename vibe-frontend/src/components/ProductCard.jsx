@@ -14,7 +14,7 @@ function imageForProduct(name = '') {
     "Vibe Socks": "/images/socks.jpg",
     "Vibe Phone Case": "/images/phonecase.jpg",
     "Vibe Keychain": "/images/keychain.jpg",
-    "Vibe Backpack": "/images/backpack.jpg",
+    "Vibe Backpack": "/images/bagpack.jpg",
     "Vibe Sunglasses": "/images/sunglasses.jpg",
     "Vibe Sweatpants": "/images/sweatpants.jpg"
   }
